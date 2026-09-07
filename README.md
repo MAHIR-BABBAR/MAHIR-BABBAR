@@ -108,18 +108,6 @@
 
 ---
 
-## 🧠 LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/spartaXmahir/">
-  <img src="https://leetcard.jacoblin.cool/spartaXmahir?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" />
-</a>
-
-</div>
-
----
-
 <div align="center">
   <em>“First, solve the problem. Then, write the code.”</em>
 </div>
