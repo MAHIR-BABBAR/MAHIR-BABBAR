@@ -92,16 +92,29 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MAHIR-BABBAR&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHIR-BABBAR&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAHIR-BABBAR&theme=tokyonight" alt="Profile details" />
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=MAHIR-BABBAR&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MAHIR-BABBAR&theme=tokyonight" alt="Top languages by repo" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MAHIR-BABBAR&theme=tokyonight" alt="Most committed languages" />
 
 <br/>
 
-<img src="https://leetcard.jacoblin.cool/spartaXmahir?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MAHIR-BABBAR&theme=tokyonight" alt="GitHub stats" />
+<img height="200" src="https://streak-stats.demolab.com?user=MAHIR-BABBAR&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🧠 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/spartaXmahir/">
+  <img src="https://leetcard.jacoblin.cool/spartaXmahir?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" />
+</a>
 
 </div>
 
